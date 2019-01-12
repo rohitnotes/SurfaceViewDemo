@@ -1,4 +1,4 @@
 # SurfaceViewDemo
 SurfaceViewDemo
 
-![image](sreenshot/Screenshot.png)
+![image](screenshot/Screenshot.png)
